@@ -9,4 +9,3 @@ The network hopes to promote and make visible the diverse range of Inner West ar
 ## Contacts
 
 - Design, Development, System Administration: [@taylorsudo](https://github.com/taylorsudo)
-- Design, Branding, Marketing: [@rjaynae](https://github.com/rjaynae)
